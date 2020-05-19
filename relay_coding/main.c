@@ -1,8 +1,13 @@
 #include <stdio.h>
 
+
 int main(){
 
+        char name;
 	printf("Hello world\n");
-
-	return 0;
+        printf("my name is yusang\n");
+        printf("what is your name ? : \n);
+        scanf("%s,name");
+ 
+	return 0
 }
