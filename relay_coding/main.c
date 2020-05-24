@@ -9,13 +9,12 @@ int main(){
         printf("what is your name ? : \n");
 	printf("my name is gyeonghoon\n");
 	printf("what is your name ? : \n");
-
-       scanf("%s",name);
-
-	printf("You have pretty name\n");
+  scanf("%s,name");
+  printf("You have pretty name\n");
  	printf("How old are you?\n");
-		int age;
-		scanf("%d",&age);
-
+	int age;
+	scanf("%d",&age);
+	printf("Bye world\n");
+ 
 	return 0
 }
