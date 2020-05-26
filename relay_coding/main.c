@@ -11,6 +11,7 @@ int main(){
 	printf("what is your name ? : \n");
   scanf("%s,name");
   printf("You have pretty name\n");
+	printf("Oh! Thank you");
  	printf("How old are you?\n");
 	int age;
 	scanf("%d",&age);
