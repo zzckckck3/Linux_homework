@@ -9,7 +9,9 @@ int main(){
         printf("what is your name ? : \n");
 	printf("my name is gyeonghoon\n");
 	printf("what is your name ? : \n");
+	printf("My name is yujung \n");
+        printf("What is your name ? : \n");
         scanf("%s,name");
- 
+        
 	return 0
 }
