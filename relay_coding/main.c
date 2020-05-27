@@ -16,5 +16,6 @@ int main(){
 	scanf("%d",&age);
 	printf("Bye world\n");
  
+	printf("Hello~.~\n");
 	return 0
 }
