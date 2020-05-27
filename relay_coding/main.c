@@ -18,5 +18,6 @@ int main(){
 	printf("Bye world\n");
  
 	printf("Hello~.~\n");
+	printf("Bye~.~\n");
 	return 0
 }
