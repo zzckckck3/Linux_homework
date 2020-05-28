@@ -19,5 +19,8 @@ int main(){
 	printf("Bye world\n");
  
 	printf("Hello~.~\n");
+	
+
+	printf("Bye See you again~~\n");
 	return 0
 }
