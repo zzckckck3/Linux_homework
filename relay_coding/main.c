@@ -26,6 +26,8 @@ int main(){
 	printf("Bye See you again~~\n");
 	
 	printf("Hello~~!!!^^\n");
+	
+	printf("Hi~~!!\n");
 
 	return 0
 
