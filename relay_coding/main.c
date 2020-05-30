@@ -29,7 +29,7 @@ int main(){
 	
 	printf("Hi~~!!\n");
 
-	printf("today is saturday\n")
+	printf("today is saturday\n");
 	
 	return 0
 
