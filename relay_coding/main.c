@@ -29,6 +29,8 @@ int main(){
 	
 	printf("Hi~~!!\n");
 
+        printf("now is 05:54AM\n");
+
 	return 0
 
 }
