@@ -9,6 +9,8 @@ int main(){
         printf("what is your name ? : \n");
 	printf("my name is gyeonghoon\n");
 	printf("what is your name ? : \n");
+	printt("my name is sinyoungkim\n");
+	printf("what is your name ?\ : \n");
 
   scanf("%s,name");
   printf("You have pretty name\n");
@@ -16,6 +18,7 @@ int main(){
  	printf("How old are you?\n");
 	int age;
 	scanf("%d",&age);
+	printf("Enjoy and do best your life!\n");
 	printf("Bye world\n");
  
 	printf("Hello~.~\n");
