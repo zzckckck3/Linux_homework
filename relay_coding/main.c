@@ -3,6 +3,9 @@
 
 int main(){
 
+        printf("조교님들 강의하느라 고생하셨습니다.\n");
+	printf("지루하지않고 재밌었어요^^\n");
+
         char name;
 	printf("Hello world\n");
         printf("my name is yusang\n");
@@ -47,5 +50,6 @@ int main(){
 printf("today is saturday\n");
 
 	return 0
+
 
 }
