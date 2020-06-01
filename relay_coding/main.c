@@ -32,8 +32,12 @@ int main(){
 	
 	printf("Hi~~!!\n");
 
-	printf("today is saturday\n");
-	
+
+        printf("now is 05:54AM\n");
+
+
+printf("today is saturday\n");
+
 	return 0
 
 }
